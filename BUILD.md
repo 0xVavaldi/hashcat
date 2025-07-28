@@ -32,7 +32,7 @@ If you can't install Python ≥ 3.12 globally, you can use **pyenv**.
 Install required libraries to build Python:
 
 ```bash
-$ sudo apt install libbz2-dev libssl-dev libncurses5-dev libffi-dev libreadline-dev libsqlite3-dev liblzma-dev
+$ sudo apt install git make build-essential libbz2-dev libssl-dev libncurses5-dev libffi-dev libreadline-dev libsqlite3-dev liblzma-dev
 ```
 
 Install `pyenv`:
